@@ -118,8 +118,3 @@ none are hardcoded:
   errors; the golden path (fill form, submit, success message with
   transaction ID) was driven end-to-end in a real headless Chromium
   session with zero browser console errors.
-
-## Submission
-
-This repo covers all three prompts. Per the assignment: push it to a
-public GitHub repository and link it from `TechLead_[YourName]_Assignment.pdf`.
